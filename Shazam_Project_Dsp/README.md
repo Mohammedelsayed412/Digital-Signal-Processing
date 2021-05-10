@@ -9,7 +9,7 @@
 
 # **`Output`**
 ### The final output for chosen song from data base.
-![](Program_out.png)
+![](Program_out.PNG)
 
 # **`DEPENDENCIES`**
 ### You must install `librosa` ,`imagededup.methods` and `pydub` by using `pip install library_name.`

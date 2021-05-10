@@ -7,9 +7,9 @@
 
 # **`Output`**
 ### The final output for chosen song from data base.
-![](Program_out.png)
+![](Program_out.PNG)
 ### The final output for chosen cocktail party problem and chose to mixed ile to separate.
-![](Program_out2.png)
+![](Program_out2.PNG)
 
 
 
